@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1438574141919.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D48D2286",
+    "lastKnownWriteTime" : 2317441066693910272,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "m",
+        "contentUrl" : "content?title=m&file=da89ee8ce74342bfa92f653cd89a7732.htm",
+        "displayedObservations" : 136,
+        "displayedVariables" : 5,
+        "totalObservations" : 136,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
